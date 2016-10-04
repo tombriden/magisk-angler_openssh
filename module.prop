@@ -1,9 +1,9 @@
-id=template
-name=Template Module
+id=angler_openssh
+name=OpenSSH for Angler
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=tombriden
+description=ssh daemon and rsync binaries
 support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+donate=
 cacheModule=false
