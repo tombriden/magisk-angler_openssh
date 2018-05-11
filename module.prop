@@ -4,6 +4,4 @@ version=v1
 versionCode=1
 author=tombriden
 description=ssh daemon and rsync binaries
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=
-cacheModule=false
+minMagisk=1500
